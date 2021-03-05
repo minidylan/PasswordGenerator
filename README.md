@@ -1,0 +1,2 @@
+# PasswordGenerator
+This is a password generator app with a GUI using the tkinter module. It allows you to generate a password with any length from a selection of letters, numbers and special characters. It also has a copy to clipboard function so you can copy it into any input field. It also has a save function so you can save the password to a txt file. This project is still a work in progress as I would like to implement an email or username function so it will save that password for that particular username or email you have chosen.
